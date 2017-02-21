@@ -1,0 +1,11 @@
+{
+  "name": "workflow2",
+  "version": "0.0.1",
+  "description": "workflow review",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "keith",
+  "license": "ISC"
+}
